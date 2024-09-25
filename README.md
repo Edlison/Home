@@ -1,8 +1,5 @@
 # Home
-Home page
 
-website: edlison.com
-blog: blog.edlison.com
-telegram: edlison
+<samp>edlison.com</samp>
 
-2021
+<samp>since 2021</samp>
